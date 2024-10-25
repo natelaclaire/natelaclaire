@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🧑‍🏫 I’m teaching CIS 100 Computer Applications and CIS 438 E-Commerce in Fall 2024 and CIS 100 Computer Applications, CIS 333 PHP Programming, and CIS 338 Content Management Systems in Spring 2025.
-🔭 I’m currently working on a course on the History and Culture of Video Games and an Introduction to Video Game Development.
+- 🧑‍🏫 I’m teaching CIS 100 Computer Applications and CIS 438 E-Commerce in Fall 2024 and CIS 100 Computer Applications, CIS 333 PHP Programming, and CIS 338 Content Management Systems in Spring 2025.
+- 🔭 I’m currently working on a course on the History and Culture of Video Games and an Introduction to Video Game Development.
 
 <!--
 **natelaclaire/natelaclaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
